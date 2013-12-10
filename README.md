@@ -6,7 +6,8 @@ In the directory with optimiste files
 
 4. create repository named "optimiste" through github web interface
 
-3. git remote add origin https://github.com/_user_/optimiste.git 
+3. git remote add origin https://github.com/user/optimiste.git 
+
 _user_ -- login in github
 
 4. git push origin master
